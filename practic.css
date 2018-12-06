@@ -1,0 +1,211 @@
+/* @media screen
+.body{
+ 
+} */
+.ocno{
+	margin: 5px;
+	position: absolute;
+}
+.name{
+	color: #000000;
+	font: 40px 'Cuprum';
+	padding: 10px;
+	font-family: 'Hanalei Fill';
+}
+.logo{
+	position: absolute;
+	z-index: 1;
+	background-color: #ffffff;
+	width: 200px;
+}
+.carousel-inner{
+	height: 500px;
+
+}
+.content{
+	z-index: 2;
+}
+.lovebig{
+	margin: 40px;
+	font-family: 'Hanalei Fill';
+	color: #000000;
+	font-size: 36px;
+}
+.lovedave{
+	font-family: 'Cuprum';
+	color: #000000;
+	background: #e4dede;
+	font-size: 25px;
+}
+.loveking{
+	font-family: 'Cuprum';
+	color: #000000;
+	font-size: 25px;
+
+}
+.l{
+	border-left-color: 40px #e4dede;
+	background-color: #e4dede;
+}
+h1{
+	top: 270px;
+	left: 600px;
+}
+.what{
+	color: #000000;
+	font: 26px 'Arimo';
+    margin-top: 15px; 
+}
+.verstca{
+	margin-top: 25px; 
+	margin-left: 35px;
+}
+.verstcanam{
+	margin-top: 10px; 
+	margin-left: 35px;
+}
+.dezayn{
+	margin-top: 20px;
+	margin-left: 65px; 
+}
+.dezaynnam{
+	margin-left: 20px;
+}
+.seo{
+	margin-top: 40px; 
+	margin-left: 50px;
+}
+.seonam{
+	margin-left: 15px;
+}
+.reclam{
+	margin-top: 40px;
+ margin-left: 33px;
+}
+.reclamnam{
+	margin-left: -15px; 
+}
+.s{
+    font-family: 'Open Sans Condensed';
+    
+}
+.do{
+    background-color: #e4dede;
+}
+.sotrud{
+	margin-top: 15px;
+	font: 26px 'Arimo';
+	color: #000000; 
+}
+.vertushca{
+	 margin-top: 45px;
+	 font-size: 40px;
+}
+.vertuhany{
+	list-style: none;
+	margin-top: -15px;
+}
+.seopro{
+	margin-left: 10px;
+	font-size: 25px; 
+}
+.nux{
+    background-color: #e4dede;
+    margin-top: 100px;
+    position: absolute;
+    font: 40px 'Roboto';
+    padding: 5%;
+    line-height: 60px;
+    z-index: 2;
+    padding-left: 6%
+}
+.pic{
+    margin-top: 8%; 
+}
+.otst{
+    margin-top: 7%;
+    margin-left: 1%;
+    font: 20px 'Rubik';
+    line-height: 30px;
+}
+.githud{
+    margin-top: 5%;
+}
+.we{
+    background-color: #e4dede;
+    margin-top: 8%;
+    position: absolute;
+    font: 300% 'Roboto';
+    padding: 5%;
+    line-height: 60px;
+		z-index: 2;
+		right:0;
+    padding-top: 70px;
+    padding-right: 10%;
+    padding-bottom: 70px;
+    padding-left: 10%;
+}
+.end{
+    background-color: #e4dede;
+}
+.sots{
+    margin-left: 35%;
+    font: 40px 'Roboto Slab';
+}
+.prob{
+    margin-bottom: 3%;
+}
+.inst{
+	margin-top: 20%;
+	margin-right: 100px;
+	text-align: center;
+}
+.cort{
+	text-align: right;
+}
+.ostu{
+	padding-top: 15px
+}
+.fab.fa-facebook-square{
+	font-size: 40px;
+	color: navy;
+	margin-left: 13%;
+	margin-top: 20px;
+	margin-right: 2%;
+	/* margin-bottom: 60px; */
+}
+.fab.fa-instagram{
+	color:#ff0000;
+	margin-left: 13%;
+	margin-top: 40px;
+	font-size: 40px;
+	margin-right: 2%;
+}
+.fab.fa-twitter{
+	color:#01a0fc;
+	margin-left: 13%;
+	margin-top: 40px;
+	font-size: 40px;
+	margin-bottom: 40px;
+	margin-right: 2%;
+}
+.memi{
+	background-color: #e4dede;
+	font-size: 30px;
+	padding-left: 5%;
+	padding-top: 10px;
+}
+.nomer{
+	color: blue;
+}
+.nomerl{
+	margin-top: 8px;
+	color: blue;
+}
+a:hover{
+	text-decoration: none;
+	color: #000000;
+}
+/* @media(min-width: 800px) {
+	.we {width: 15px;}
+} */
