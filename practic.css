@@ -145,6 +145,20 @@ h1{
     padding-bottom: 70px;
     padding-left: 10%;
 }
+/* .we{
+	background-color: #e4dede;
+	margin-top: 3%;
+	position: absolute;
+	font: 240% 'Roboto';
+	padding: 5%;
+	line-height: 60px;
+	z-index: 2;
+	right:0;
+	padding-top: 40px;
+	padding-right: 5%;
+	padding-bottom: 40px;
+	padding-left: 5%;
+} */
 .end{
     background-color: #e4dede;
 }
