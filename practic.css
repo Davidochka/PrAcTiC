@@ -131,6 +131,7 @@ h1{
 .githud{
     margin-top: 5%;
 }
+@media(min-width: 1326px) {
 .we{
     background-color: #e4dede;
     margin-top: 8%;
@@ -144,21 +145,24 @@ h1{
     padding-right: 10%;
     padding-bottom: 70px;
     padding-left: 10%;
+	}
 }
-/* .we{
-	background-color: #e4dede;
-	margin-top: 3%;
-	position: absolute;
-	font: 240% 'Roboto';
-	padding: 5%;
-	line-height: 60px;
-	z-index: 2;
-	right:0;
-	padding-top: 40px;
-	padding-right: 5%;
-	padding-bottom: 40px;
-	padding-left: 5%;
-} */
+@media(max-width: 1024px) {
+	.we{
+		background-color: #e4dede;
+		margin-top: 3%;
+		position: absolute;
+		font: 240% 'Roboto';
+		padding: 5%;
+		line-height: 60px;
+		z-index: 2;
+		right:0;
+		padding-top: 40px;
+		padding-right: 5%;
+		padding-bottom: 40px;
+		padding-left: 8%;
+	}
+}
 .end{
     background-color: #e4dede;
 }
